@@ -1,0 +1,7 @@
+pe\edu\upeu\patron\strategy\OperationMultiply.class
+pe\edu\upeu\patron\strategy\StrategyPatternDemo.class
+pe\edu\upeu\patron\Patron.class
+pe\edu\upeu\patron\strategy\Strategy.class
+pe\edu\upeu\patron\strategy\OperationSubstract.class
+pe\edu\upeu\patron\strategy\Context.class
+pe\edu\upeu\patron\strategy\OperationAdd.class
